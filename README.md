@@ -1,4 +1,4 @@
-# Single-cell transcriptomic atlas of human livers with and without PBC
+# Unique DUOX2+ACE2+ small cholangiocytes are pathogenic targets for primary biliary cholangitis
 
 
 ## System requirements
